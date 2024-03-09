@@ -41,7 +41,7 @@ function App() {
     <div className="App">
 
 
-<div className="cart mb-[55rem]">
+<div className="cart mb-[25rem]">
         <h2>Cart</h2>
         <ul>
           {cartItems.map((item, index) => (
